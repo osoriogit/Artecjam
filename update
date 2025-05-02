@@ -1,1 +1,26 @@
-update 
+Problema:
+
+    Os utilizadores de painéis solares não sabem quando devem limpar os seus painéis solares, de forma a compensar.
+
+Solução:
+
+    Sistema de monitorização do nível de sujidade dos painéis solares, através do uso de um sensor de luz e um LED. Os utilizadores poderão monitorizar o nível de sujeira dos painéis e fazer um relatório para a equipa de suporte de forma a agendar limpeza, através de uma aplicação.
+
+Tecnologias Utilizadas:
+
+   Arduíno, Python, SingleStore(Base de dados), Vercel (react,html)
+
+Repositório:
+
+   github: https://github.com/osoriogit/Artecjam
+
+Nome Equipa:
+
+   ARTECJAM
+
+Elementos:
+
+   Afonso Mendes
+   João Oliveira
+   Mariana Osório Santos
+   Tomás Santos
